@@ -1,0 +1,2 @@
+# Allo-sRecyclablePaperShop
+GitHub Pages
